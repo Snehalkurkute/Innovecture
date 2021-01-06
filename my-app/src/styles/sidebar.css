@@ -1,0 +1,12 @@
+.sidebar{
+  width: 20%;
+  height: 100%;
+  min-width: 300px;
+  background: #121c6a;
+}
+
+.list-item {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,31 @@
+.display-article{
+flex: 1 1 0;
+  position: relative;
+}
+
+.article-header {
+  height: 50px;
+  font-size: 20px;
+  border-bottom: solid 1px grey;
+}
+
+.article-details {
+  padding: 20px;
+}
+
+.label {
+  padding: 20px;
+}
+
+.actions {
+  color: #ff0073;
+  position: absolute;
+  top: 50px;
+  right: 10px;
+}
+
+.action-item {
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+}
